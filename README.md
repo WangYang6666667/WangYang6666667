@@ -9,7 +9,7 @@ Other Skills: Algorithms, Data Structures, Git
 
 - 💞️ I’m looking to collaborate on chatglm-6B
 - 📫 How to reach me please visit “sheikansheishi@126.com”
-- GitHub: https://github.com/Ziyourufeng2399
+- GitHub: https://github.com/WangYang6666667
 
 
 <!---
